@@ -61,7 +61,11 @@
                     </form>
                     <!-- Google Sign-In Button -->
                    
+<<<<<<< HEAD
                     <p class="text-center">Already have an account? <a href="signIn.jsp">Sign In</a></p>
+=======
+                    <p class="text-center">Already have an account? <a href="signin.jsp">Sign In</a></p>
+>>>>>>> 647e95b99574034a6ae2abd35b637dc5e27a3678
                 </div>
             </div>
         </div>
